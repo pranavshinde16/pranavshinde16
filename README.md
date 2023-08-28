@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
-<h3 align="center">Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
+<h3 align="center">An Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
 
 - 🌱 I’m currently learning **Next.js,React Native**
 
