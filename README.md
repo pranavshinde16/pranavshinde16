@@ -1,3 +1,4 @@
+<div align="center"><img src="https://ibb.co/r0gYTX6"><img src="https://i.ibb.co/MSbrWJV/banner2.png"/></div
 <div align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></div>
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
 <h3 align="center">Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
