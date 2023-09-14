@@ -1,4 +1,4 @@
-<div align="center" style="border-radius:10px"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></div>
+<div align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></div>
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
 <h3 align="center">Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
 <!-- <img align="right" alt="CodingImage" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/> -->
