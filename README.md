@@ -4,7 +4,7 @@
 <h3 align="center">Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
 <!-- <img align="right" alt="CodingImage" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/> -->
 <!-- https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif -->
-- 🌱 I’m currently learning - **Next.js,React Native**
+- 🌱 I’m currently learning - **Next.js, React Native**
 
 - 👨‍💻 All of my projects are available at - [https://github.com/pranavshinde16?tab=repositories](https://github.com/pranavshinde16?tab=repositories)
 
