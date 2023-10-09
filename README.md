@@ -12,6 +12,7 @@
 
 - 📄 Know about my experiences - [https://drive.google.com/file/d/1KviDGopkZVJGPqGFKH7ThCxOkiRvxpV6/view?usp=sharing](https://drive.google.com/file/d/1KviDGopkZVJGPqGFKH7ThCxOkiRvxpV6/view?usp=sharing)
 
+- 💼 My Portfolio - [https://pranav-shinde-portfolio.netlify.app/](https://pranav-shinde-portfolio.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranavs18421620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavs18421620" height="30" width="40" /></a>
