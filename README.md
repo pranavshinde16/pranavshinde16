@@ -10,7 +10,7 @@
 
 - 📫 How to reach me - **shindepranav909@gmail.com**
 
-- 📄 Know about my experiences - [https://drive.google.com/file/d/1KviDGopkZVJGPqGFKH7ThCxOkiRvxpV6/view?usp=sharing](https://drive.google.com/file/d/1KviDGopkZVJGPqGFKH7ThCxOkiRvxpV6/view?usp=sharing)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1fsdGkU-yFKlZxyghr0CPjc5Fui9hjK2E/view?usp=sharing
 
 - 💼 My Portfolio - [https://pranav-shinde-portfolio.netlify.app/](https://pranav-shinde-portfolio.netlify.app/)
 <h3 align="left">Connect with me:</h3>
