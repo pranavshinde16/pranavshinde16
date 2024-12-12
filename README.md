@@ -1,4 +1,4 @@
-<img src="https://github.com/pranavshinde16/Images/blob/main/banner2.png?raw=true" style="width:100%; height:300px"/>
+<img src="https://github.com/pranavshinde16/Images/blob/main/PranavBanner.png" style="width:100%; height:300px"/>
 <div align="center"><img src="https://github.com/pranavshinde16/Images/blob/main/gifcoder-unscreen.gif?raw=true"/></div>
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
 <h3 align="center">Enthusiastic and passionate frontend developer, recently graduated and eager to kickstart a successful career in Software Development.</h3>
